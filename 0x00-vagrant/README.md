@@ -1,0 +1,1 @@
+This project is about learn of virtual machine and how works vagrant. Also to lear about Ubuntu and its comands. 

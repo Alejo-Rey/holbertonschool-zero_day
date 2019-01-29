@@ -1,0 +1,1 @@
+This project is about learn of the text editor Vi and its commands

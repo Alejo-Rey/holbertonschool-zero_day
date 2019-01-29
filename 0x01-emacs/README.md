@@ -1,0 +1,1 @@
+This project is about the editor text EMACS and how to work with this.
